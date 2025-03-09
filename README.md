@@ -8,7 +8,7 @@ PhantomAI is something I put together as a solo project, designed to operate dis
 
 This concept is intentionally not fully refined to the point where it poses a serious challenge for recruiters, but it remains stealthy and demonstrates how silent AI tools can operate discreetly. While it's just a fun experiment, it also raises important questions about the **future of virtual interviews and the traditional approach to interview and coding challenges**.
 
-<img src="https://github.com/user-attachments/assets/dd47208d-5c17-4844-8806-d404167bd7fe" width="100px">
+<img src="https://github.com/user-attachments/assets/dd47208d-5c17-4844-8806-d404167bd7fe" width="200px">
 
 ## 📺 Demo (Click for YouTube Video)
 
