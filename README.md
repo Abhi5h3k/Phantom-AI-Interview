@@ -50,8 +50,6 @@ Clipboard Jacking is the fastest way to get help from the AI without any visible
 ✅ **Phantom Mode** – Operates entirely with hotkey shortcuts, eliminating the need for a visible GUI.  
 ✅ **Active Listening Mode** – AI stays alert for real-time interactions and responses.  
 ✅ **Clipboard Jacking** – Silently captures copied text, sends it to an LLM, and retrieves a response without detection.  
-✅ **Ethical Concerns & Security Risks** – Exploring both the potential and dangers of AI-driven automation.  
-✅ **Future of AI in Productivity & Cheating Prevention** – Discussing real-world implications and countermeasures.  
 
 **💡 Note:** This project uses an open-source LLM on CPU. Performance and accuracy can be significantly improved with GPU acceleration, larger models, or by switching to GPT API with optimized prompts.
 
@@ -96,8 +94,9 @@ Phantom-AI-Interview/
 ### Setup Instructions
 Since some required files are large and cannot be pushed to GitHub, follow these steps to set up your environment:
 
-1. Extract Whisper **whisper-bin-x64.7z**
+1. Download Whisper **[whisper-bin-x64](https://github.com/ggerganov/whisper.cpp/actions/runs/13716448084/)**
 Extract it to the root directory of the project
+    - Download ggml-base.en.bin [Whisper Models on Hugging Face](https://huggingface.co/ggerganov/whisper.cpp/tree/main)
 2. Download the [Vosk Model](https://alphacephei.com/vosk/models)
 Get the Vosk model (**vosk-model-en-in-0.5**)
 
