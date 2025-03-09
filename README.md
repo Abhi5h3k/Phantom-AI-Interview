@@ -94,15 +94,24 @@ Phantom-AI-Interview/
 ### Setup Instructions
 Since some required files are large and cannot be pushed to GitHub, follow these steps to set up your environment:
 
-1. Download Whisper **[whisper-bin-x64](https://github.com/ggerganov/whisper.cpp/actions/runs/13716448084/)**
-Extract it to the root directory of the project
-    - Download ggml-base.en.bin [Whisper Models on Hugging Face](https://huggingface.co/ggerganov/whisper.cpp/tree/main)
-2. Download the [Vosk Model](https://alphacephei.com/vosk/models)
-Get the Vosk model (**vosk-model-en-in-0.5**)
-
 ![image](https://github.com/user-attachments/assets/145d0bd6-42bf-464e-8072-78824ff0dec0)
 
+1. Download Whisper **[whisper-bin-x64](https://github.com/ggerganov/whisper.cpp/actions/runs/13716448084/)**
 
+    <img src="https://github.com/user-attachments/assets/9448bb51-c713-4bb2-83a2-829e80748134">
+
+    Extract it to the **root directory** of the project
+
+2. Download ggml-base.en.bin [Whisper Models on Hugging Face](https://huggingface.co/ggerganov/whisper.cpp/tree/main)
+
+    <img src="https://github.com/user-attachments/assets/6cd0c7ba-2e4e-4670-9788-39619c23e48e">
+
+3. Download the [Vosk Model](https://alphacephei.com/vosk/models)
+Get the Vosk model (**vosk-model-en-in-0.5**)
+
+
+
+### Project Setup:
 
 ### **1. Install Python 3.11.0**
 Ensure you have Python 3.11.0 installed. You can download it from [python.org](https://www.python.org/downloads/release/python-3110/).
