@@ -14,7 +14,7 @@ This concept is intentionally not fully refined to the point where it poses a se
 
 ### 🤖 All responses are played as audio output, which you can listen to through your connected headset 🎧. Notifications are enabled only for demonstration purposes; by default, they are turned off 💡.
 
-### 🎧 Stereo Mode – AI Listens to Interviewer Directly  
+### 🎧 [Stereo Mode](https://www.wintips.org/how-to-enable-stereo-mix-if-not-showing-as-recording-device-in-windows-11-10/) – AI Listens to Interviewer Directly  
 This mode allows PhantomAI to listen to the interviewer's voice directly from the system audio instead of the microphone. This ensures that the AI captures exactly what the interviewer is saying and generates responses accordingly.  
 
 [![Stereo Mode, Listen to Interviewer / Output Voice](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndwcG1sZjF2MXVqdmU3ZjI5eWpvcGN5ZWxtN3VnYWVjNDgyb2s5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6KziBOVNrsZ5eURBBh/giphy.gif)](https://www.youtube.com/watch?v=xPOmbY0iaVE)  
