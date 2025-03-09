@@ -1,0 +1,14 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+    volumes:
+      - ollama_data:/root/.ollama  # Persist models across restarts
+    command: ["serve"]
+
+volumes:
+  ollama_data:
+    driver: local
