@@ -158,6 +158,18 @@ py run.py
 
 ---
 
+## 🚀 Future Improvements & Suggestions
+
+If you want to enhance PhantomAI for better performance and a more seamless experience, consider these improvements:
+
+- **Use GPU & Larger Models** – For faster and more accurate responses, switch to a GPU-powered setup with a bigger local LLM.
+- **Switch to GPT API** – If local inference is slow, using the GPT API provides better performance and higher accuracy.
+- **Better Prompt Engineering** – Optimize response quality by designing improved prompt templates or dynamically selecting templates based on the question type.
+- **Move to Containers** – This project was a quick Windows-based concept. For better portability and stability, consider switching to Docker/Linux-based deployment.
+- **Bundle into a Single Executable** – Improve usability by packaging everything into a standalone .exe file for easy distribution.
+
+---
+
 ## 🌍 Disclaimer
 This project is purely for educational purposes and ethical AI research. It highlights the potential risks associated with silent AI in virtual environments but is not intended to be used for unethical activities.
 
