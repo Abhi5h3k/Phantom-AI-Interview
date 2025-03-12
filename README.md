@@ -4,18 +4,9 @@
 [![Abhishek LinkedIn](https://img.shields.io/badge/Abhishek-LinkedIn-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/abhi5h3k/) [![Abhishek StackOverflow](https://img.shields.io/badge/Abhishek-StackOverflow-orange.svg?style=for-the-badge)](https://stackoverflow.com/users/6870223/abhi?tab=profile)
 
 
-## **AI is disrupting tech hiring… but how far can it go? 🤖💻**  
-
-<br>
-
 With modern **LLMs** and AI-powered tools, **getting AI assistance in coding interviews is easier than ever**. This project explores **how AI could seamlessly assist in real-time technical interviews**—and what it means for hiring in the future.  
 
-<br>
-
-> **🔍 Disclaimer:** *This project is an experimental exploration of AI's capabilities in real-time assistance. It is meant to **study AI-human interaction** in technical settings and **not** to promote unfair practices in interviews or assessments.*  
-
-
-## 📌 Why This Project?  
+### 📌 Why This Project?  
 
 <br>
 
@@ -217,4 +208,6 @@ This project is purely for educational purposes and ethical AI research. It high
 Feel free to use and modify as needed.
 
 ---
+
+> **🔍 Disclaimer:** *This project is an experimental exploration of AI's capabilities in real-time assistance. It is meant to **study AI-human interaction** in technical settings and **not** to promote unfair practices in interviews or assessments.*  
 
